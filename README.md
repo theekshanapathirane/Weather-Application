@@ -36,4 +36,4 @@ If you'd like to run this application locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/theekshanapathirane/Weather-Application.git
